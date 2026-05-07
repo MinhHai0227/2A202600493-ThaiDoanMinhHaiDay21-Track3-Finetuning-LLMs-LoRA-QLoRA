@@ -1,0 +1,7 @@
+{
+  "json_valid_rate": 0.9047619047619048,
+  "intent_accuracy": 0.8571428571428571,
+  "answer_mode_accuracy": 0.8571428571428571,
+  "needs_retrieval_accuracy": 0.9047619047619048,
+  "needs_clarification_accuracy": 0.8571428571428571
+}
